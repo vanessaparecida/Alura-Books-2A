@@ -35,13 +35,15 @@
     display: block;
 }
 
-.lista-menu-titulo, .lista-menu-item{
+.lista-menu-titulo,
+ .lista-menu-item{
     padding: 1em;
     background-color: var(--branco);
 }
 
 .lista-menu-titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu-link {
